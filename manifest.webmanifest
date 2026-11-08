@@ -1,1 +1,1 @@
-{"name":"CalmFit — your training companion","short_name":"CalmFit","start_url":"/","display":"standalone","background_color":"#f6f7f2","theme_color":"#f6f7f2","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"CalmFit","short_name":"CalmFit","start_url":"/","display":"standalone","background_color":"#08090d","theme_color":"#08090d","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml"}]}
